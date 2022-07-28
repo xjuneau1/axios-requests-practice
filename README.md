@@ -1,11 +1,13 @@
 # Use the API from this website: https://animechan.vercel.app/
 ________________________________________
 ________________________________________
-#### Fork and clone this repository, then do:
+#### Fork and clone this repository, open your terminal in the directory then do:
 
 ```javascript
 npm install
 ```
+
+This will install the axios dependency for you.
 ________________________________________
 ________________________________________
 
@@ -19,6 +21,8 @@ Console log the result, it should look something like this:
 ```javascript 
 {anime: 'Naruto', 'Rock Lee': 'If you believe in your dreams, I will prove to you, that you can achieve your dreams just by working hard.'}
 ```
+________________________________________
+There is a solution to this problem in the "solutions" folder, give yourself 20-30 minutes to solve this and if you are still having trouble take a look at the solution.
 
 Good luck!
 ________________________________________
