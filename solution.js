@@ -1,5 +1,3 @@
-const { default: axios } = require("axios");
-
 //Write your code here!
 
 
