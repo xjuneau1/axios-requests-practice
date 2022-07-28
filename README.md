@@ -1,15 +1,18 @@
-# Use the API from this website: https://animechan.vercel.app/
-________________________________________
-________________________________________
-<h4 align="center">Fork and clone this repository, open your terminal in the directory then do:</h4>
+<h1 align="center">
+Use the API from this website: 
+<a href="https://animechan.vercel.app/">https://animechan.vercel.app/</a> 
+</h1>
+
+
+<h4 align="center">Fork and clone this repository, open your terminal in the directory then type:</h4>
 
 ```javascript
 npm install
 ```
 
 <p align="center">This will install the axios dependency for you.</p>
-________________________________________
-________________________________________
+_____________________________________________________
+_____________________________________________________
 
 Look at the solution.js file. Write a request to the given API and return an object with the anime key and the name of the anime, and the name of the person who said the quote as a key and the quote as that key's value.
 
