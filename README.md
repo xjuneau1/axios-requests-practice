@@ -1,13 +1,13 @@
 # Use the API from this website: https://animechan.vercel.app/
 ________________________________________
 ________________________________________
-#### Fork and clone this repository, open your terminal in the directory then do:
+<h4 align="center">Fork and clone this repository, open your terminal in the directory then do:</h4>
 
 ```javascript
 npm install
 ```
 
-This will install the axios dependency for you.
+<p align="center">This will install the axios dependency for you.</p>
 ________________________________________
 ________________________________________
 
@@ -24,8 +24,9 @@ Console log the result, it should look something like this:
 ________________________________________
 There is a solution to this problem in the "solutions" folder, give yourself 20-30 minutes to solve this and if you are still having trouble take a look at the solution.
 
-Good luck!
+
 ________________________________________
+<p align="center">Good Luck!</p>
 
 <p align="center">
   <img src="https://placebear.com/202/203" />
