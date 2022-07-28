@@ -23,4 +23,6 @@ Console log the result, it should look something like this:
 Good luck!
 ________________________________________
 
-![This is an image of a bear.](https://placebear.com/202/203)
+<p align="center">
+  <img src="https://placebear.com/202/203" />
+</p>
