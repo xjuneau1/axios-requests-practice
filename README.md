@@ -27,7 +27,9 @@ Console log the result, it should look something like this:
 ________________________________________
 There is a solution to this problem in the "solutions" folder, give yourself 20-30 minutes to solve this and if you are still having trouble take a look at the solution.
 
+<br>
 
+When you are done, you can run the index.html in a Live Server and click the button to retrieve your quote!
 ________________________________________
 <p align="center">Good Luck!</p>
 
