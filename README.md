@@ -19,7 +19,9 @@ npm install
 ```javascript
 npm run build
 ```
-<p align="center">When you are done, you can right click index.html and open in a Live Server, just click the button and retrieve your quote!</p>
+
+<p align="center">When you are done, you can right click index.html and open in a Live Server.</p>
+<p align="center">If you make changes to any files, you must run the above command again before the live server will work with your changes.</p>
 
 _____________________________________________________
 _____________________________________________________
