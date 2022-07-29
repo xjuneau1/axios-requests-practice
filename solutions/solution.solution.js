@@ -19,8 +19,7 @@ async function getAnimeQuotes(){
   
     })
 }
-const allQuotes = getAnimeQuotes()
-console.log(allQuotes)
-//getAnimeQuotes().then((data)=>console.log(data))
 
-module.exports = getAnimeQuotes
+getAnimeQuotes().then((data)=>console.log(data))
+
+//module.exports = getAnimeQuotes
