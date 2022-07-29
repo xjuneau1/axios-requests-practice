@@ -4,7 +4,7 @@
   "description": "practice making requests from a cat pictures API",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "build": "browserify index.js -o bundle.js"
   },
   "repository": {
     "type": "git",

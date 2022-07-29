@@ -4,8 +4,8 @@ const { default: axios } = require("axios");
 
 const url = `https://animechan.vercel.app/api/random`
 
-function getAnimeQuotes(){
-    return axios.get(url).then(({data:{anime, character, quote}}) => {
+async function getAnimeQuotes(){
+    return await axios.get(url).then(({data:{anime, character, quote}}) => {
         let obj = {anime: anime,}
         obj[character] = quote
         return obj
@@ -19,7 +19,8 @@ function getAnimeQuotes(){
   
     })
 }
-
-getAnimeQuotes().then((data)=>console.log(data))
+const allQuotes = getAnimeQuotes()
+console.log(allQuotes)
+//getAnimeQuotes().then((data)=>console.log(data))
 
 module.exports = getAnimeQuotes
