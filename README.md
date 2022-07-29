@@ -11,6 +11,16 @@ npm install
 ```
 
 <p align="center">This will install the axios and Browserify dependencies for you.</p>
+
+<br>
+
+<p align="center">After you have written your solution open your terminal and type the following:</p>
+
+```javascript
+npm run build
+```
+<p align="center">When you are done, you can right click index.html and open in a Live Server, just click the button and retrieve your quote!</p>
+
 _____________________________________________________
 _____________________________________________________
 
@@ -19,17 +29,19 @@ Look at the solution.js file. Complete the function. Write a request to the give
 _Hint_: Make sure to read everything.
 
 
-Console log the result, it should look something like this:
+When you console log the result, it should look something like this:
 
 ```javascript 
 {anime: 'Naruto', 'Rock Lee': 'If you believe in your dreams, I will prove to you, that you can achieve your dreams just by working hard.'}
 ```
+
+
 ________________________________________
 There is a solution to this problem in the "solutions" folder, give yourself 20-30 minutes to solve this and if you are still having trouble take a look at the solution.
 
 <br>
 
-When you are done, you can right click index.html and open in a Live Server, just click the button and retrieve your quote!
+
 ________________________________________
 <p align="center">Good Luck!</p>
 
