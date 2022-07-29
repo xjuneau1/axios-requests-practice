@@ -5,7 +5,7 @@ const quote = document.getElementById("quote-text")
 
 
 button.addEventListener("click", async function renderText(){
-    const data  = await getAnimeQuotes().then((data)=>data)
+    const data  = await getAnimeQuotes().then((data)=>{return data})
     quote.innerHTML = `
     <div>
         <p>The name of the anime your quote is from is called: <em>"${data.anime}"</em></p>

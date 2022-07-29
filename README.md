@@ -10,11 +10,11 @@ Use the API from this website:
 npm install
 ```
 
-<p align="center">This will install the axios dependency for you.</p>
+<p align="center">This will install the axios and Browserify dependencies for you.</p>
 _____________________________________________________
 _____________________________________________________
 
-Look at the solution.js file. Write a request to the given API and return an object with the anime key and the name of the anime, and the name of the person who said the quote as a key and the quote as that key's value.
+Look at the solution.js file. Complete the function. Write a request to the given API and return an object with the anime key and the name of the animeas it's value, and the name of the person who said the quote as a key and the quote as that key's value.
 
 _Hint_: Make sure to read everything.
 
@@ -29,7 +29,7 @@ There is a solution to this problem in the "solutions" folder, give yourself 20-
 
 <br>
 
-When you are done, you can run the index.html in a Live Server and click the button to retrieve your quote!
+When you are done, you can right click index.html and open in a Live Server, just click the button and retrieve your quote!
 ________________________________________
 <p align="center">Good Luck!</p>
 
